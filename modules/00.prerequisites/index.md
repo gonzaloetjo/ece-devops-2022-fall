@@ -19,12 +19,13 @@ If you can, work from a **Unix system** (Ubuntu, Mac, dual-boot, VM, WSL)
 ## Terminal
 
 - Most useful developer tool
+
 - Any number of custsomizations
+
 - Most popular shells are Bash, Zsh and Fish
-
 * [Oh My Zsh](https://ohmyz.sh) is a popular tool to customize your shell environment
-
 - On Windows: WSL, Powershell, Git Bash (don't use default CMD!)
+
 - On macOS / Linux: native Terminal
 
 ## Bash
@@ -241,3 +242,15 @@ level:
   - With your own plugins
   - Almost all implementation support [GitHub Flavored Markdown (GFM)](https://www.markdownguide.org/cheat-sheet/#extended-syntax) or a supset of it
 - MDX is an enhanced version of Markdown with React components
+
+## Charts:
+
+- Mermaid:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
