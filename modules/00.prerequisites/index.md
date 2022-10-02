@@ -45,7 +45,7 @@ Learn Bash base commands:
   - `:wq` to write & quit
 - Use `/` to search for text
 - Use `i` to enter `INSERT` mode and `ESC` to exit it
-- `vimtutor` is the best tutorial to learn
+- `vimtutor` is the best tutorial to learn: https://www.openvim.com/
 
 ## Editors, IDE
 
